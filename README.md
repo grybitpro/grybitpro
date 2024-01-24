@@ -5,8 +5,3 @@
 - 📫 How to reach me: Feel free to connect via [WhatsApp](https://wa.me/923130209232) for design inquiries and discussions.
 - 😄 Pronouns: Design enthusiast
 - ⚡ Fun fact: My passion for UI/UX design often extends to redesigning everyday interfaces for a better user experience.
-
-<!---
-grybitpro/grybitpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
